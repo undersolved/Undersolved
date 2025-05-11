@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Bhupendra Singh Hapawat, an AI/ML Engineer, Python Developer, and Data Scientist. I specialize in building intelligent, data-driven solutions using machine learning, deep learning, and advanced analytics. I'm passionate about turning complex problems into impactful, real-world applications.<br><br>
+Hi, I'm Bhupendra Singh Hapawat, an AI/ML Engineer & a Python Developer, and Data Scientist. I specialize in building intelligent, data-driven solutions using machine learning, deep learning, and advanced analytics. I'm passionate about turning complex problems into impactful, real-world applications.<br><br>
 
 
 ## 🌐 Socials:
