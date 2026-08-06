@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:4F46E5,100:06B6D4&text=Bhupendra%20Singh%20Hapawat&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20•%20Full%20Stack%20Developer%20•%20Cloud%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:4F46E5,100:06B6D4&text=Bhupendra%20Singh%20Hapawat&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Cloud%20Enthusiast&descAlignY=58&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Backend+Engineering;Distributed+Systems;Cloud+Infrastructure;Always+Learning+🚀"/>
 
