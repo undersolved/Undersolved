@@ -1,156 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:1f2937,50:4f46e5,100:06b6d4&text=Bhupendra%20Singh%20Hapawat&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Cloud&descSize=18&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:4F46E5,100:06B6D4&text=Bhupendra%20Singh%20Hapawat&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20•%20Full%20Stack%20Developer%20•%20Cloud%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Backend+Engineering;Distributed+Systems;Cloud+Infrastructure;Always+Learning+🚀"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=undersolved&style=for-the-badge&color=4F46E5"/>
 
 </div>
 
 ---
 
-# ✨ About Me
+# 💫 About Me
 
-> Building scalable applications that stay online.<br>
-> Passionate about Backend Engineering, Distributed Systems, Cloud Infrastructure and Mobile Development.
+```cpp
+class Bhupendra {
+public:
+    string role = "Full Stack Developer";
+
+    vector<string> interests = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "Cloud Computing",
+        "Mobile Development",
+        "System Design"
+    };
+
+    string currentFocus =
+        "Building scalable production-ready applications";
+};
+```
 
 ---
 
 # 🌐 Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/bhupendra-singh-hapawat">
-<img src="https://img.shields.io/badge/LinkedIn-Glass-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/bsXDev">
-<img src="https://img.shields.io/badge/X-Glass-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Arsenal
 
-## Languages
+<div align="center">
 
-<p>
+### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,dart"/>
 
-</p>
-
----
-
-## Frontend
-
-<p>
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,flutter"/>
 
-</p>
-
----
-
-## Backend
-
-<p>
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,fastify"/>
 
-</p>
+### Mobile
 
----
+<img src="https://skillicons.dev/icons?i=react,firebase,flutter"/>
 
-## Mobile
+### Databases
 
-<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase"/>
 
-<img src="https://skillicons.dev/icons?i=react,flutter,firebase"/>
+### Cloud & DevOps
 
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,cloudflare,vercel,kafka"/>
 
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,supabase"/>
-
-</p>
-
----
-
-## Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,vercel,netlify,docker"/>
-
-</p>
-
----
-
-## DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,githubactions,kafka"/>
-
-</p>
-
----
-
-## AI / ML
-
-<p>
+### AI
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
 
-</p>
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,notion"/>
+
+</div>
 
 ---
 
-## Tools
+# 📊 GitHub Analytics
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,postman,git,github,notion"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=undersolved&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=undersolved&theme=tokyonight&hide_border=true"/>
 
----
+<br><br>
 
-# 📈 GitHub Analytics
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undersolved&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=undersolved&theme=transparent&hide_border=true&show_icons=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=undersolved&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=undersolved&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🚀 Contributions
+# 🏆 Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=undersolved&limit=5&theme=transparent&combine_all_yearly_contributions=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=undersolved&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-</p>
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=undersolved&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Current Focus
+
+```text
+🟢 Backend Architecture
+🟢 Distributed Systems
+🟢 System Design
+🟢 Cloud Infrastructure
+🟢 Mobile Development
+🟢 Open Source
+```
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy designing systems that continue running even when individual components fail.
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=undersolved&style=flat-square&color=blueviolet)
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
 
 </div>
