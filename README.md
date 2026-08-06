@@ -17,7 +17,7 @@
 ```cpp
 class Bhupendra {
 public:
-    string role = "Full Stack Developer";
+    string role = "Software Engineer";
 
     vector<string> interests = {
         "Backend Engineering",
@@ -46,7 +46,7 @@ public:
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:singh.bhupendra.h@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
